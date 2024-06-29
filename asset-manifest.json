@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aihub/static/css/main.6d98172a.css",
-    "main.js": "/aihub/static/js/main.67ef0928.js",
+    "main.js": "/aihub/static/js/main.3d9d3e67.js",
     "index.html": "/aihub/index.html",
     "static/media/CanopusAIHub.ico": "/aihub/static/media/CanopusAIHub.63306da1f0bdc54af10a.ico",
     "main.6d98172a.css.map": "/aihub/static/css/main.6d98172a.css.map",
-    "main.67ef0928.js.map": "/aihub/static/js/main.67ef0928.js.map"
+    "main.3d9d3e67.js.map": "/aihub/static/js/main.3d9d3e67.js.map"
   },
   "entrypoints": [
     "static/css/main.6d98172a.css",
-    "static/js/main.67ef0928.js"
+    "static/js/main.3d9d3e67.js"
   ]
 }
