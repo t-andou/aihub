@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/canopur/static/css/main.e6c13ad2.css",
-    "main.js": "/canopur/static/js/main.a11610fe.js",
+    "main.css": "/canopur/static/css/main.6d98172a.css",
+    "main.js": "/canopur/static/js/main.29cafa1a.js",
     "index.html": "/canopur/index.html",
-    "main.e6c13ad2.css.map": "/canopur/static/css/main.e6c13ad2.css.map",
-    "main.a11610fe.js.map": "/canopur/static/js/main.a11610fe.js.map"
+    "static/media/CanopusAIHub.ico": "/canopur/static/media/CanopusAIHub.63306da1f0bdc54af10a.ico",
+    "main.6d98172a.css.map": "/canopur/static/css/main.6d98172a.css.map",
+    "main.29cafa1a.js.map": "/canopur/static/js/main.29cafa1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.a11610fe.js"
+    "static/css/main.6d98172a.css",
+    "static/js/main.29cafa1a.js"
   ]
 }
