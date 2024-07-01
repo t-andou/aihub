@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aihub/static/css/main.5855bfc2.css",
-    "main.js": "/aihub/static/js/main.1682e8c0.js",
+    "main.js": "/aihub/static/js/main.0196f52e.js",
     "index.html": "/aihub/index.html",
     "static/media/CanopusAIHub.ico": "/aihub/static/media/CanopusAIHub.63306da1f0bdc54af10a.ico",
     "static/media/CanopusGeoTrainer.ico": "/aihub/static/media/CanopusGeoTrainer.a8a8ad60c2b2e2be2e7f.ico",
     "main.5855bfc2.css.map": "/aihub/static/css/main.5855bfc2.css.map",
-    "main.1682e8c0.js.map": "/aihub/static/js/main.1682e8c0.js.map"
+    "main.0196f52e.js.map": "/aihub/static/js/main.0196f52e.js.map"
   },
   "entrypoints": [
     "static/css/main.5855bfc2.css",
-    "static/js/main.1682e8c0.js"
+    "static/js/main.0196f52e.js"
   ]
 }
