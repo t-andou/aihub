@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/aihub/static/css/main.67c4837d.css",
-    "main.js": "/aihub/static/js/main.53b081fa.js",
+    "main.css": "/aihub/static/css/main.fb095075.css",
+    "main.js": "/aihub/static/js/main.420b6c7f.js",
+    "static/media/refresh.svg": "/aihub/static/media/refresh.17cde11f5585f89a06fe.svg",
+    "static/media/arrows-h.svg": "/aihub/static/media/arrows-h.bc5d81b812679b2c2de3.svg",
+    "static/media/step-backward.svg": "/aihub/static/media/step-backward.668fe580bd643f04d5bd.svg",
     "index.html": "/aihub/index.html",
     "static/media/CanopusAIHub.ico": "/aihub/static/media/CanopusAIHub.63306da1f0bdc54af10a.ico",
     "static/media/CanopusGeoTrainer.ico": "/aihub/static/media/CanopusGeoTrainer.a8a8ad60c2b2e2be2e7f.ico",
-    "main.67c4837d.css.map": "/aihub/static/css/main.67c4837d.css.map",
-    "main.53b081fa.js.map": "/aihub/static/js/main.53b081fa.js.map"
+    "static/media/play.svg": "/aihub/static/media/play.ecdaa7c6f6c62b563516.svg",
+    "main.fb095075.css.map": "/aihub/static/css/main.fb095075.css.map",
+    "main.420b6c7f.js.map": "/aihub/static/js/main.420b6c7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c4837d.css",
-    "static/js/main.53b081fa.js"
+    "static/css/main.fb095075.css",
+    "static/js/main.420b6c7f.js"
   ]
 }
